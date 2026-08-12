@@ -1,0 +1,39 @@
+.head{
+    color:darkblue;
+}
+#bglime{
+    background-color:lime;
+}
+.red{
+    color:red;
+}
+body{
+    background-color:salmon;
+}
+p{
+    color:white;
+}
+#para{
+    color:green;
+}
+.desc > p{
+    color:white;
+    font-size: 20px;
+}
+.list > p{
+    color:black;
+    font-weight:bold;
+}
+
+ul li:nth-child(1) a {
+    background-color: yellow;
+}
+
+ul li:nth-child(2) a {
+    background-color: blue;
+}
+p span {
+    color: black;
+    font-size: 20px;
+    
+}
